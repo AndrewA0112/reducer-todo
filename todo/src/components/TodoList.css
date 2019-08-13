@@ -1,0 +1,13 @@
+.todo {
+    background: #078AC3;
+    width: 45%;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.todo.completed {
+    text-decoration: line-through;
+    background: #4FA8CF
+}
